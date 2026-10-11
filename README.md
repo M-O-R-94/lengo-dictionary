@@ -1,10 +1,10 @@
 # Lengo dictionary packs
 
-Offline learner's-dictionary packs for the Lengo iOS app:
+Offline learner's-dictionary and learning-content packs for the Lengo iOS app:
 16 languages, words placed in twelve learning bands (A1.1 … C2.2). The app downloads
 them from this repository's releases. This repository holds data only.
 
-**Release 2026.10.7**, built from the English Wiktionary dump of
+**Release 2026.10.12**, built from the English Wiktionary dump of
 2026-09-02.
 
 | Language | Words | Entries | Entries with translations | Levels | Installed | Download |
@@ -22,7 +22,7 @@ them from this repository's releases. This repository holds data only.
 | Japanese (`ja`) | 10,999 | 12,558 | 55% | estimated from word frequency | 6.6 MB | 1.8 MB |
 | Korean (`ko`) | 10,999 | 11,218 | 63% | estimated from word frequency | 4.0 MB | 1.2 MB |
 | Dutch (`nl`) | 11,000 | 11,564 | 82% | estimated from word frequency | 5.2 MB | 1.7 MB |
-| Polish (`pl`) | 10,997 | 11,231 | 83% | estimated from word frequency | 8.3 MB | 2.3 MB |
+| Polish (`pl`) | 10,997 | 11,231 | 83% | estimated from word frequency | 8.2 MB | 2.2 MB |
 | Swedish (`sv`) | 7,619 | 7,798 | 87% | Kelly list | 4.5 MB | 1.5 MB |
 | Hindi (`hi`) | 9,212 | 9,840 | 70% | estimated from word frequency | 4.7 MB | 1.3 MB |
 
@@ -31,6 +31,51 @@ a starter pack with bands A1.1–A1.2 of every language (14,874 entries,
 9.8 MB).
 
 Full coverage tables, per-band counts and format measurements: [`report.md`](report.md).
+
+## Learning content (`lengo-content-*`)
+
+Each language also has a learning-content pack: everyday phrases and sentence patterns
+from the Wikivoyage phrasebooks, short dialogues and reply pairs Lengo arranged from
+those lines, idioms, slang, collocations, confusing pairs and word families from
+Wiktionary, and example sentences from Tatoeba (native speakers only, each with its
+number and author). Nothing is written or translated by Lengo; every item records its
+source, licence, reference and review status (1 source text, 2 chosen or grouped
+automatically, 3 arranged by Lengo; none reviewed by native speakers). A phrase's level
+is estimated from its hardest dictionary word. The app ships the everyday situations of
+all sixteen languages built in.
+
+| Language | Items | Phrases + words | Patterns | Combinations | Dialogues | Idioms | Slang | Confusing pairs | Examples | Everyday situations (min items) | With a level |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|
+| German | 1,884 | 745 | 39 | 252 | 5 | 300 | 200 | 40 | 2,144 | 6 of 6 (30) | 47% |
+| English | 2,074 | 635 | 33 | 600 | 6 | 300 | 200 | 0 | 2,467 | 6 of 6 (25) | 50% |
+| French | 2,216 | 740 | 29 | 600 | 4 | 300 | 200 | 40 | 2,027 | 6 of 6 (25) | 51% |
+| Spanish | 1,865 | 663 | 34 | 318 | 6 | 300 | 200 | 40 | 2,096 | 6 of 6 (28) | 52% |
+| Arabic | 1,006 | 325 | 6 | 230 | 3 | 117 | 103 | 40 | 652 | 6 of 6 (25) | 63% |
+| Turkish | 1,323 | 400 | 30 | 48 | 5 | 300 | 200 | 40 | 1,600 | 6 of 6 (25) | 47% |
+| Italian | 1,590 | 634 | 35 | 73 | 6 | 300 | 200 | 40 | 2,035 | 6 of 6 (26) | 44% |
+| Portuguese | 1,495 | 559 | 29 | 62 | 5 | 300 | 200 | 40 | 1,869 | 6 of 6 (25) | 47% |
+| Russian | 1,843 | 647 | 31 | 317 | 6 | 300 | 200 | 40 | 2,142 | 6 of 6 (25) | 35% |
+| Chinese (Simplified) | 1,244 | 381 | 18 | 0 | 5 | 300 | 200 | 40 | 1,293 | 6 of 6 (25) | 55% |
+| Japanese | 1,344 | 458 | 36 | 6 | 4 | 300 | 200 | 40 | 1,694 | 6 of 6 (25) | 57% |
+| Korean | 1,087 | 378 | 31 | 92 | 5 | 65 | 200 | 40 | 563 | 6 of 6 (2) | 45% |
+| Dutch | 1,534 | 602 | 29 | 57 | 6 | 300 | 200 | 40 | 1,836 | 6 of 6 (25) | 44% |
+| Polish | 1,908 | 436 | 24 | 600 | 5 | 300 | 200 | 40 | 1,590 | 6 of 6 (25) | 58% |
+| Swedish | 1,431 | 514 | 30 | 41 | 6 | 300 | 200 | 40 | 1,675 | 6 of 6 (25) | 45% |
+| Hindi | 1,038 | 297 | 25 | 29 | 2 | 201 | 200 | 40 | 372 | 6 of 6 (5) | 45% |
+
+| | Installed | Download |
+|---|---:|---:|
+| One content pack | 0.6 MB–1.3 MB | 0.15–0.38 MB |
+| All sixteen content packs | 14.8 MB | 4.0 MB |
+| One dictionary pack | 4.0 MB–8.4 MB | 1.2 MB–2.7 MB |
+| All sixteen dictionary packs | 101.9 MB | 30.5 MB |
+| Built-in phrases (everyday situations of all 16 languages) | 2.4 MB | — |
+| Built-in starter dictionary (A1 of all 16 languages) | 9.8 MB | — |
+
+Gaps: Korean has 2 work-and-study phrases and Hindi 5 each for shopping and work and
+study (few native Tatoeba sentences with English); English has no confusing pairs
+(they are defined against English); Chinese has no collocations; about half the items
+have no level because a word in them isn't in the dictionary.
 
 ## What the levels mean
 

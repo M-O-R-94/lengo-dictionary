@@ -24,6 +24,24 @@ and share alike under CC BY-SA 4.0.
   Resources and Evaluation 48:121–163. Licensed CC BY 4.0 (download page) / CC BY-SA 3.0.
   Swedish levels.
 
+- **Wikivoyage phrasebooks** (https://en.wikivoyage.org/wiki/Phrasebook), by Wikivoyage
+  contributors, CC BY-SA. Everyday phrases, sentence patterns and their completions,
+  formal and informal forms. The page revisions used are listed in each release's
+  `phrasebook-sources.json`; every item names its page and section.
+- **Tatoeba** (https://tatoeba.org), sentences by Tatoeba contributors, CC BY 2.0 FR.
+  Example sentences with their English translations, and short everyday sentences.
+  Every sentence keeps its Tatoeba number and its author's username; the exports used
+  are listed in `tatoeba-sources.json`.
+
 Changes: entries selected by frequency, meanings shortened and filtered (obsolete and
 archaic senses removed), examples limited to one per meaning, search keys added, and
 Lengo's twelve bands assigned as described in README.md.
+
+Learning-content packs (`lengo-content-*`): phrases, patterns and sentences are
+quoted as their sources wrote them. Lengo grouped them into situations, ordered
+phrasebook lines into short dialogues, paired lines with replies, matched example
+sentences to items and estimated a level from the words an item contains. None of
+this arrangement has been reviewed by native speakers; each item records whether
+it is source text (review 1), chosen or grouped automatically (2) or arranged by
+Lengo (3). The content packs are shared under CC BY-SA 4.0; Tatoeba sentences inside
+them remain CC BY 2.0 FR with their authors named.

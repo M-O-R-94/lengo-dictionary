@@ -1,9 +1,10 @@
 {
  "format": 1,
  "schemaVersion": 1,
- "version": "2026.10.7",
+ "contentSchemaVersion": 1,
+ "version": "2026.10.12",
  "sourceDump": "2026-09-02",
- "builtAt": "2026-10-11T09:05:48Z",
+ "builtAt": "2026-10-11T19:41:50Z",
  "license": "CC BY-SA 4.0",
  "bands": [
   "A1.1",
@@ -27,10 +28,10 @@
     "de"
    ],
    "file": "lengo-dict-de.sqlite.xz",
-   "bytes": 6483968,
-   "sha256": "845d57fdd27f69b315062fb1e53c5e45a39fc24b99edfc5929670c3c0560bcb5",
-   "compressedBytes": 2115152,
-   "compressedSha256": "d2361912e15bc3292d0e773b9226e81173784f059445c9fe5119d9004e001363",
+   "bytes": 6475776,
+   "sha256": "e4b7c0a39d83cb59f041dafe5d3cca1a7c6667d34a610f49927b82e73e184715",
+   "compressedBytes": 2110780,
+   "compressedSha256": "fcc6c1272b662429b9ca91b2d384906ac5ec665aab521e4bcd77119a1bc900b4",
    "entries": 11358,
    "bandCounts": {
     "A1.1": 451,
@@ -49,7 +50,7 @@
    "counts": {
     "entries": 11358,
     "senses": 20586,
-    "examples": 4871,
+    "examples": 4668,
     "terms": 72953,
     "concepts": 22378,
     "links": 30382,
@@ -68,7 +69,7 @@
      "C2.2": 1521
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-de.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-de.sqlite.xz"
   },
   {
    "id": "en",
@@ -77,10 +78,10 @@
     "en"
    ],
    "file": "lengo-dict-en.sqlite.xz",
-   "bytes": 8183808,
-   "sha256": "e2311e613ae5e70a9761710e111f1d1c04a11ed07c67a67dd6adca635d75a8be",
-   "compressedBytes": 2661816,
-   "compressedSha256": "da60cd1dda6d480fea7c5b3e60bf627ac4810b41f001e06ec86593a23e89b623",
+   "bytes": 8167424,
+   "sha256": "53fef6d8ff4c8bc11d04795d92f2148f7e42d988b24accdadf350c6291353222",
+   "compressedBytes": 2657120,
+   "compressedSha256": "45748758687c5d828dca892904b457deaa48425815c0c59d9a6741c47b14d067",
    "entries": 9646,
    "bandCounts": {
     "A1.1": 594,
@@ -99,7 +100,7 @@
    "counts": {
     "entries": 9646,
     "senses": 35497,
-    "examples": 16020,
+    "examples": 15339,
     "terms": 27265,
     "concepts": 26073,
     "links": 26073,
@@ -118,7 +119,7 @@
      "C2.2": 446
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-en.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-en.sqlite.xz"
   },
   {
    "id": "fr",
@@ -127,10 +128,10 @@
     "fr"
    ],
    "file": "lengo-dict-fr.sqlite.xz",
-   "bytes": 6537216,
-   "sha256": "2a39b518d95a0bae4640fc642efb9194517ee9024139e18e9fe513ce5c518312",
-   "compressedBytes": 2119872,
-   "compressedSha256": "3a094dba247bbed78bfeb40931c076e9c4b750d424395efc46923f8b22b53955",
+   "bytes": 6504448,
+   "sha256": "ae20cfe9172b64da5dfb7f9c7c456983b80772f38a57f132dcb056518458dfa9",
+   "compressedBytes": 2106540,
+   "compressedSha256": "d5ee77bc7dba390b843c550334ecde60d1fa3072164cdc632f9219136aea1b39",
    "entries": 11664,
    "bandCounts": {
     "A1.1": 451,
@@ -149,7 +150,7 @@
    "counts": {
     "entries": 11664,
     "senses": 21409,
-    "examples": 3643,
+    "examples": 2887,
     "terms": 84384,
     "concepts": 24018,
     "links": 29238,
@@ -168,7 +169,7 @@
      "C2.2": 1565
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-fr.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-fr.sqlite.xz"
   },
   {
    "id": "es",
@@ -177,10 +178,10 @@
     "es"
    ],
    "file": "lengo-dict-es.sqlite.xz",
-   "bytes": 6848512,
-   "sha256": "ac5eb15990012e34920ede7e87fcad566da89b9c285cd7a2e8b2b12120203f8f",
-   "compressedBytes": 2144060,
-   "compressedSha256": "9e4f7808eef1eda3d983f6a564f28d15055f09cdbc18d0e86bbb1c3e86a842ec",
+   "bytes": 6840320,
+   "sha256": "0291ae5e792d721f64dfe616c6edbe8f2f61e6c136f1870912c69a7e1840d1e6",
+   "compressedBytes": 2145676,
+   "compressedSha256": "c279b35777f007cf0d21640e6e1c71ffcabc5e4feb7b4b6d046093bff33d2b30",
    "entries": 11844,
    "bandCounts": {
     "A1.1": 456,
@@ -199,7 +200,7 @@
    "counts": {
     "entries": 11844,
     "senses": 22926,
-    "examples": 2400,
+    "examples": 2165,
     "terms": 101428,
     "concepts": 23731,
     "links": 30435,
@@ -218,7 +219,7 @@
      "C2.2": 1608
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-es.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-es.sqlite.xz"
   },
   {
    "id": "ar",
@@ -227,10 +228,10 @@
     "ar"
    ],
    "file": "lengo-dict-ar.sqlite.xz",
-   "bytes": 8278016,
-   "sha256": "c81e8b416dd103d68e45eb493e6f24772861cedd92e653d87f7ce4f50b893ab0",
-   "compressedBytes": 2046336,
-   "compressedSha256": "eb7b8fcd3147de845b7108a2a8791da50a0b2c3f6f13d408bd031e97bea77a53",
+   "bytes": 8261632,
+   "sha256": "ad0973537f9adec7dba29c19eabcece45dcabf3546fe63f80b3f1b8dd9c79c5a",
+   "compressedBytes": 2043032,
+   "compressedSha256": "c9907e0a1022abf28491d2d2497a33f4cd64aa85cc47cd42a5a2a077823503d2",
    "entries": 12776,
    "bandCounts": {
     "A1.1": 469,
@@ -249,7 +250,7 @@
    "counts": {
     "entries": 12776,
     "senses": 24986,
-    "examples": 1939,
+    "examples": 1726,
     "terms": 207318,
     "concepts": 12219,
     "links": 16678,
@@ -268,7 +269,7 @@
      "C2.2": 1768
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-ar.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-ar.sqlite.xz"
   },
   {
    "id": "tr",
@@ -277,10 +278,10 @@
     "tr"
    ],
    "file": "lengo-dict-tr.sqlite.xz",
-   "bytes": 8392704,
-   "sha256": "b982fbf99ea75d8b7ce9760ac49192577e8d4c7d289644898b74879fc55c0874",
-   "compressedBytes": 2056644,
-   "compressedSha256": "45b4091b8fa3ece15451e4c9b58fbf5bc01478e8c0a86732a44a395a44bd051c",
+   "bytes": 8388608,
+   "sha256": "8d4acbad452e33ac40153290cfb5cf099beb0485e7d56dc1d02db2acd5123e61",
+   "compressedBytes": 2057772,
+   "compressedSha256": "85338f18d44f57b2803f8550b6aa4f71f445c786f79d9f80924720416290b655",
    "entries": 10457,
    "bandCounts": {
     "A1.1": 435,
@@ -299,7 +300,7 @@
    "counts": {
     "entries": 10457,
     "senses": 16717,
-    "examples": 1769,
+    "examples": 1725,
     "terms": 248044,
     "concepts": 13060,
     "links": 17201,
@@ -318,7 +319,7 @@
      "C2.2": 557
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-tr.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-tr.sqlite.xz"
   },
   {
    "id": "it",
@@ -327,10 +328,10 @@
     "it"
    ],
    "file": "lengo-dict-it.sqlite.xz",
-   "bytes": 6172672,
-   "sha256": "ab02c3c7dbeeaa3b16f0164f3203c62073e1c4fb604da74ea6d2210226772ef6",
-   "compressedBytes": 1915468,
-   "compressedSha256": "a0cd6a190a9b9215053e3df4e7248631a926b4c45672ce8fb1c3559c81842647",
+   "bytes": 6168576,
+   "sha256": "f6146b36ba9d53e2671a0d7e970a323c121fd9061c0c4d532eea96a57956f541",
+   "compressedBytes": 1915128,
+   "compressedSha256": "20ec149fe2947b414b0378183fbbc9c580c42d1c010db48a1589403d157a104f",
    "entries": 11806,
    "bandCounts": {
     "A1.1": 482,
@@ -349,7 +350,7 @@
    "counts": {
     "entries": 11806,
     "senses": 22944,
-    "examples": 1794,
+    "examples": 1737,
     "terms": 90085,
     "concepts": 20199,
     "links": 26103,
@@ -368,7 +369,7 @@
      "C2.2": 1597
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-it.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-it.sqlite.xz"
   },
   {
    "id": "pt",
@@ -377,10 +378,10 @@
     "pt"
    ],
    "file": "lengo-dict-pt.sqlite.xz",
-   "bytes": 7041024,
-   "sha256": "3e304e15506132a7919622f799ab74989d65f6e9c93c2fa50f619fe1f490b947",
-   "compressedBytes": 2192008,
-   "compressedSha256": "72f861d89c93839c38f47477ac8a64e01d742edc0e978e34eb1e8c34d33bf0cd",
+   "bytes": 7036928,
+   "sha256": "52b42552f89d2fc4a32ded3a7abff20f96c6e1225ad6bff5f52ec6af485612dc",
+   "compressedBytes": 2182644,
+   "compressedSha256": "f71606572784314a02c26a0f77a5e444cc6ebc5e4ce77aadfe31fe6598398e63",
    "entries": 11791,
    "bandCounts": {
     "A1.1": 479,
@@ -399,7 +400,7 @@
    "counts": {
     "entries": 11791,
     "senses": 22734,
-    "examples": 2854,
+    "examples": 2806,
     "terms": 99322,
     "concepts": 23409,
     "links": 28498,
@@ -418,7 +419,7 @@
      "C2.2": 1572
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-pt.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-pt.sqlite.xz"
   },
   {
    "id": "ru",
@@ -427,10 +428,10 @@
     "ru"
    ],
    "file": "lengo-dict-ru.sqlite.xz",
-   "bytes": 5824512,
-   "sha256": "252c55d3bb2959814d550e4b6090d3f2599d50a32eec45617382d9441e0186f2",
-   "compressedBytes": 1934292,
-   "compressedSha256": "94ddf76401b404e024cca1afd42b2845db2dec99290b59b70ed391e164f68c3b",
+   "bytes": 5812224,
+   "sha256": "04e4afbbc5c4ef40d3dba9945ef91005ba711cf072344fc7e34ef5d2b292c68d",
+   "compressedBytes": 1942716,
+   "compressedSha256": "98124ec5f5eb9eded147b154b3d8474c3dc15d5a5e6a5d44d004dcd4f877d25f",
    "entries": 11188,
    "bandCounts": {
     "A1.1": 435,
@@ -449,7 +450,7 @@
    "counts": {
     "entries": 11188,
     "senses": 20967,
-    "examples": 4226,
+    "examples": 4039,
     "terms": 27231,
     "concepts": 22790,
     "links": 32326,
@@ -468,7 +469,7 @@
      "C2.2": 1512
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-ru.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-ru.sqlite.xz"
   },
   {
    "id": "zh-CN",
@@ -478,9 +479,9 @@
    ],
    "file": "lengo-dict-zh-CN.sqlite.xz",
    "bytes": 4890624,
-   "sha256": "cdfb5d5217fdd83d81d028f3475be185a75c19904d1ce67706f58afc239d3c86",
-   "compressedBytes": 1586704,
-   "compressedSha256": "654432ff80da08c0bc1412a9decc3a0d4ec7816a98260052cb16037180565b2c",
+   "sha256": "75dd16dd48d67181b8c571981fcf60de2126230b824297ae4e0d4727b5017b29",
+   "compressedBytes": 1591028,
+   "compressedSha256": "04bc48a52d8b179994c55812fb3b92666487f5a219572d0699bb44fa722ca178",
    "entries": 11939,
    "bandCounts": {
     "A1.1": 425,
@@ -518,7 +519,7 @@
      "C2.2": 1604
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-zh-CN.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-zh-CN.sqlite.xz"
   },
   {
    "id": "ja",
@@ -528,9 +529,9 @@
    ],
    "file": "lengo-dict-ja.sqlite.xz",
    "bytes": 6610944,
-   "sha256": "1b0c9a8a0267a8853d28583374fb2dbe545e104cd6166a67b70cdab718c18d9e",
-   "compressedBytes": 1787588,
-   "compressedSha256": "f9831299365b711b431ad81556e4ed2bc2014fbd83908ce5a726f4a8995ea843",
+   "sha256": "da0e30589a9ad533a9bab58fd7c91053b044d92401b1e4cbdd259489bbce6c85",
+   "compressedBytes": 1787596,
+   "compressedSha256": "ca5314131e092e6c08c201e53a5ae4b13aa52ec2a46665348cb037e2a165a451",
    "entries": 12558,
    "bandCounts": {
     "A1.1": 461,
@@ -549,7 +550,7 @@
    "counts": {
     "entries": 12558,
     "senses": 21393,
-    "examples": 4513,
+    "examples": 4508,
     "terms": 127588,
     "concepts": 10008,
     "links": 12958,
@@ -568,7 +569,7 @@
      "C2.2": 1761
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-ja.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-ja.sqlite.xz"
   },
   {
    "id": "ko",
@@ -577,10 +578,10 @@
     "ko"
    ],
    "file": "lengo-dict-ko.sqlite.xz",
-   "bytes": 4018176,
-   "sha256": "d36709bd3d3b26b90ca5d68b4273637c5b3d984442d529e9653e7db60f5349b1",
-   "compressedBytes": 1245936,
-   "compressedSha256": "dee41e98952e44e0c1087949fbcf6b8de5e2487d298867d2d3b965996e395bb9",
+   "bytes": 4014080,
+   "sha256": "52d6587826f60125c577e7a261568265c87de5af1fb9c5f9619b71b24157692b",
+   "compressedBytes": 1244304,
+   "compressedSha256": "ac13a8f33029e6425a7dd71d5c54af63e06b2fecc29bbe7643c66319f0b72ac8",
    "entries": 11218,
    "bandCounts": {
     "A1.1": 433,
@@ -599,7 +600,7 @@
    "counts": {
     "entries": 11218,
     "senses": 15489,
-    "examples": 2742,
+    "examples": 2679,
     "terms": 54197,
     "concepts": 8919,
     "links": 11594,
@@ -618,7 +619,7 @@
      "C2.2": 1477
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-ko.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-ko.sqlite.xz"
   },
   {
    "id": "nl",
@@ -627,10 +628,10 @@
     "nl"
    ],
    "file": "lengo-dict-nl.sqlite.xz",
-   "bytes": 5189632,
-   "sha256": "102d0fd7809f71f59899824c3548ec08358dc1caf08f6dabb21c860a0b5e2b4b",
-   "compressedBytes": 1740748,
-   "compressedSha256": "7f8356b6052e5b41743c2d2730c8d8f274c8f4c67ec4b871fcbfb656e310a6c5",
+   "bytes": 5185536,
+   "sha256": "ea173cd2a83ccdca5199f9b3864ab49a2418edfe72bf969de34c957d8e5e3bc4",
+   "compressedBytes": 1739864,
+   "compressedSha256": "73f95f0e36033e0bcb6bf21731d92f3c96da7d96e889bd34dfce7a2457113e32",
    "entries": 11564,
    "bandCounts": {
     "A1.1": 469,
@@ -649,7 +650,7 @@
    "counts": {
     "entries": 11564,
     "senses": 18431,
-    "examples": 3398,
+    "examples": 3349,
     "terms": 45002,
     "concepts": 18069,
     "links": 22864,
@@ -668,7 +669,7 @@
      "C2.2": 1547
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-nl.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-nl.sqlite.xz"
   },
   {
    "id": "pl",
@@ -677,10 +678,10 @@
     "pl"
    ],
    "file": "lengo-dict-pl.sqlite.xz",
-   "bytes": 8265728,
-   "sha256": "e35367513d1d7858af24f275e349db68051e601957bac346a2ebcae0a125351c",
-   "compressedBytes": 2258032,
-   "compressedSha256": "aa737ef3ca258c54681b10df93d2b9f271c1e06b693d2ec9c49bac7d75d6fe24",
+   "bytes": 8232960,
+   "sha256": "0005b7cd1e160c33b33ca856b0118c07844214fc8341abceb848ec37b40ada6b",
+   "compressedBytes": 2244016,
+   "compressedSha256": "c9926d26d726a5b979d91a6a78e975b42a1bb262f43aa2859310d75d5a965266",
    "entries": 11231,
    "bandCounts": {
     "A1.1": 434,
@@ -699,7 +700,7 @@
    "counts": {
     "entries": 11231,
     "senses": 25374,
-    "examples": 2182,
+    "examples": 1447,
     "terms": 161201,
     "concepts": 17904,
     "links": 23043,
@@ -718,7 +719,7 @@
      "C2.2": 1519
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-pl.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-pl.sqlite.xz"
   },
   {
    "id": "sv",
@@ -728,9 +729,9 @@
    ],
    "file": "lengo-dict-sv.sqlite.xz",
    "bytes": 4546560,
-   "sha256": "7a6d488b879af13610774ccc0080e0b4923a19161050a2f6a1439f3e27f95a08",
-   "compressedBytes": 1460932,
-   "compressedSha256": "2f1152426872c5e768dea8ec603a47a443499ab396a4f962d7e11d2f43a2b516",
+   "sha256": "0cf25d54c191ff2561880f8bad83fe070a9f94ab2bb720e428a730bcae4b7018",
+   "compressedBytes": 1461168,
+   "compressedSha256": "b9d3fc752e47b4ced622b083f2f7c7a44af4d7eb8481591e3c564805e11635d8",
    "entries": 7798,
    "bandCounts": {
     "A1.1": 698,
@@ -749,7 +750,7 @@
    "counts": {
     "entries": 7798,
     "senses": 13387,
-    "examples": 4749,
+    "examples": 4733,
     "terms": 58068,
     "concepts": 14413,
     "links": 18006,
@@ -768,7 +769,7 @@
      "C2.2": 606
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-sv.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-sv.sqlite.xz"
   },
   {
    "id": "hi",
@@ -778,9 +779,9 @@
    ],
    "file": "lengo-dict-hi.sqlite.xz",
    "bytes": 4730880,
-   "sha256": "182be452b16134533b11497dd5feb24c42a6c0f21f417d92087c4cdeeb64860f",
-   "compressedBytes": 1311744,
-   "compressedSha256": "0a40bbdd12f8f80d370cbdb0c9268d2cb47ca608cc1ae16f03d39dd0c84f6a5e",
+   "sha256": "37cb8a926c2d964db0d1d9c5156352062d78234d58f50f61987db4ee710ef4f3",
+   "compressedBytes": 1311936,
+   "compressedSha256": "9bb5a0da669851c3f4bd2d6be5e9848665eb020a11ac2dd3ded5bc7d843bfd75",
    "entries": 9840,
    "bandCounts": {
     "A1.1": 442,
@@ -799,7 +800,7 @@
    "counts": {
     "entries": 9840,
     "senses": 16205,
-    "examples": 2938,
+    "examples": 2911,
     "terms": 54929,
     "concepts": 9460,
     "links": 13983,
@@ -818,7 +819,698 @@
      "C2.2": 0
     }
    },
-   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.7/lengo-dict-hi.sqlite.xz"
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-dict-hi.sqlite.xz"
+  },
+  {
+   "id": "content-de",
+   "kind": "content",
+   "languages": [
+    "de"
+   ],
+   "file": "lengo-content-de.sqlite.xz",
+   "bytes": 1122304,
+   "sha256": "ef5851f04303612b2b7e07bb14871bffe5b4bc3b3b4d2763f3f95535e3bddd1b",
+   "compressedBytes": 317968,
+   "compressedSha256": "ca689d88250873f7e0015f15b900ae1f0fd005164a5e43c2513e6aac37c180f7",
+   "entries": 1884,
+   "bandCounts": {
+    "A1.2": 186,
+    "B1.1": 34,
+    "B2.1": 41,
+    "A2.1": 87,
+    "A1.1": 324,
+    "C2.1": 12,
+    "A2.2": 56,
+    "unclassified": 984,
+    "C1.1": 44,
+    "B2.2": 47,
+    "B1.2": 25,
+    "C2.2": 14,
+    "C1.2": 30
+   },
+   "counts": {
+    "items": 1884,
+    "kinds": {
+     "word": 219,
+     "phrase": 526,
+     "pattern": 39,
+     "note": 3,
+     "dialogue": 5,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 252,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-de.sqlite.xz"
+  },
+  {
+   "id": "content-en",
+   "kind": "content",
+   "languages": [
+    "en"
+   ],
+   "file": "lengo-content-en.sqlite.xz",
+   "bytes": 1327104,
+   "sha256": "a72aad4cacc130a72c90c26653025dc8a1579ed76fc173271446e5816b351d89",
+   "compressedBytes": 380156,
+   "compressedSha256": "0ecbf761564076a3bcdf8bb953fabbc8e8934a3c36b48b245692a90f986e5860",
+   "entries": 2074,
+   "bandCounts": {
+    "A1.1": 311,
+    "A2.2": 49,
+    "B1.1": 235,
+    "A2.1": 182,
+    "A1.2": 107,
+    "unclassified": 1030,
+    "B2.1": 111,
+    "C1.2": 2,
+    "B1.2": 25,
+    "B2.2": 11,
+    "C2.1": 3,
+    "C1.1": 7,
+    "C2.2": 1
+   },
+   "counts": {
+    "items": 2074,
+    "kinds": {
+     "word": 163,
+     "phrase": 472,
+     "pattern": 33,
+     "dialogue": 6,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 600,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-en.sqlite.xz"
+  },
+  {
+   "id": "content-fr",
+   "kind": "content",
+   "languages": [
+    "fr"
+   ],
+   "file": "lengo-content-fr.sqlite.xz",
+   "bytes": 1196032,
+   "sha256": "8516e1ea8008728e71a22a0dfd772e8734b7b360eb5415589bfed51c577130a9",
+   "compressedBytes": 321476,
+   "compressedSha256": "643dd0a39df96379d80216e74e6a73df3358ac5d2bbd15b22cd612413a4ee221",
+   "entries": 2216,
+   "bandCounts": {
+    "A2.1": 128,
+    "unclassified": 1076,
+    "A1.2": 291,
+    "B2.1": 44,
+    "A1.1": 318,
+    "A2.2": 93,
+    "C2.2": 14,
+    "B1.1": 103,
+    "B1.2": 45,
+    "C1.1": 31,
+    "B2.2": 34,
+    "C1.2": 23,
+    "C2.1": 16
+   },
+   "counts": {
+    "items": 2216,
+    "kinds": {
+     "word": 131,
+     "phrase": 609,
+     "pattern": 29,
+     "note": 3,
+     "dialogue": 4,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 600,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-fr.sqlite.xz"
+  },
+  {
+   "id": "content-es",
+   "kind": "content",
+   "languages": [
+    "es"
+   ],
+   "file": "lengo-content-es.sqlite.xz",
+   "bytes": 1040384,
+   "sha256": "e71343458e7c804c2b6dcac0bf47f78d436f89413fe3aac519f6886e942ea624",
+   "compressedBytes": 286924,
+   "compressedSha256": "0a6ec29c52592ffd30ad04728cbf9910ce8ae6e9aedd99b069715d99dc0e8453",
+   "entries": 1865,
+   "bandCounts": {
+    "A1.2": 179,
+    "A1.1": 401,
+    "B1.2": 53,
+    "C1.2": 14,
+    "A2.2": 65,
+    "B1.1": 52,
+    "unclassified": 878,
+    "B2.2": 31,
+    "C1.1": 34,
+    "B2.1": 47,
+    "C2.1": 19,
+    "A2.1": 80,
+    "C2.2": 12
+   },
+   "counts": {
+    "items": 1865,
+    "kinds": {
+     "word": 169,
+     "phrase": 494,
+     "pattern": 34,
+     "note": 4,
+     "dialogue": 6,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 318,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-es.sqlite.xz"
+  },
+  {
+   "id": "content-ar",
+   "kind": "content",
+   "languages": [
+    "ar"
+   ],
+   "file": "lengo-content-ar.sqlite.xz",
+   "bytes": 593920,
+   "sha256": "0b8407cf6207ac1fd3c1eb5bda450107fd0e21cfd1c30450beac9873e8fec5f2",
+   "compressedBytes": 156144,
+   "compressedSha256": "f5751adba8af9c1eebf34c803571fe9e690dd39f9c0a90ddcbab0673d18145ad",
+   "entries": 1006,
+   "bandCounts": {
+    "A1.1": 165,
+    "B2.1": 46,
+    "unclassified": 364,
+    "A1.2": 97,
+    "A2.1": 77,
+    "C1.1": 37,
+    "B2.2": 42,
+    "B1.2": 55,
+    "B1.1": 39,
+    "A2.2": 58,
+    "C1.2": 21,
+    "C2.2": 5
+   },
+   "counts": {
+    "items": 1006,
+    "kinds": {
+     "word": 87,
+     "phrase": 238,
+     "pattern": 6,
+     "dialogue": 3,
+     "idiom": 117,
+     "slang": 103,
+     "collocation": 230,
+     "comparison": 40,
+     "family": 182
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-ar.sqlite.xz"
+  },
+  {
+   "id": "content-tr",
+   "kind": "content",
+   "languages": [
+    "tr"
+   ],
+   "file": "lengo-content-tr.sqlite.xz",
+   "bytes": 774144,
+   "sha256": "d069bce0e009a54ea2d9211de125b1f5afc4678d7f73e8328e643a12382f80bd",
+   "compressedBytes": 216472,
+   "compressedSha256": "cac7ce569c5fe4020f1816c0c84d354b984e9fe1a2d0b9c75e67abbbab98278f",
+   "entries": 1323,
+   "bandCounts": {
+    "A1.2": 165,
+    "B2.2": 10,
+    "B1.1": 22,
+    "B2.1": 13,
+    "unclassified": 698,
+    "A1.1": 294,
+    "A2.1": 64,
+    "C1.1": 10,
+    "A2.2": 26,
+    "B1.2": 16,
+    "C2.2": 1,
+    "C1.2": 3,
+    "C2.1": 1
+   },
+   "counts": {
+    "items": 1323,
+    "kinds": {
+     "phrase": 299,
+     "pattern": 30,
+     "word": 101,
+     "dialogue": 5,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 48,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-tr.sqlite.xz"
+  },
+  {
+   "id": "content-it",
+   "kind": "content",
+   "languages": [
+    "it"
+   ],
+   "file": "lengo-content-it.sqlite.xz",
+   "bytes": 929792,
+   "sha256": "b66eb2c17543630c88f5d2a8957b700c1b85961de2b700c81c23d94e98d37ef7",
+   "compressedBytes": 246952,
+   "compressedSha256": "a949d20b6f2e8b3fb4259305936d8ad550d60efc666e5a5fc8a112ba1af48152",
+   "entries": 1590,
+   "bandCounts": {
+    "A1.1": 341,
+    "A2.2": 30,
+    "A2.1": 34,
+    "A1.2": 164,
+    "unclassified": 887,
+    "B2.1": 23,
+    "C2.1": 10,
+    "C2.2": 8,
+    "B1.2": 23,
+    "B1.1": 23,
+    "C1.1": 21,
+    "B2.2": 18,
+    "C1.2": 8
+   },
+   "counts": {
+    "items": 1590,
+    "kinds": {
+     "word": 144,
+     "phrase": 490,
+     "pattern": 35,
+     "note": 2,
+     "dialogue": 6,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 73,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-it.sqlite.xz"
+  },
+  {
+   "id": "content-pt",
+   "kind": "content",
+   "languages": [
+    "pt"
+   ],
+   "file": "lengo-content-pt.sqlite.xz",
+   "bytes": 929792,
+   "sha256": "d94aa6883d20954322aa83ce894ae08572ac1e903981898d8088c7f0892044bc",
+   "compressedBytes": 252928,
+   "compressedSha256": "c1545c9a75a502620f4c442b1fe1138b7422621de821076d1deb8851aad5e499",
+   "entries": 1495,
+   "bandCounts": {
+    "A1.2": 184,
+    "A1.1": 303,
+    "A2.1": 37,
+    "B2.1": 27,
+    "B1.1": 34,
+    "unclassified": 782,
+    "B1.2": 28,
+    "A2.2": 26,
+    "C1.1": 27,
+    "C1.2": 12,
+    "C2.1": 12,
+    "C2.2": 6,
+    "B2.2": 17
+   },
+   "counts": {
+    "items": 1495,
+    "kinds": {
+     "word": 150,
+     "phrase": 409,
+     "pattern": 29,
+     "dialogue": 5,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 62,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-pt.sqlite.xz"
+  },
+  {
+   "id": "content-ru",
+   "kind": "content",
+   "languages": [
+    "ru"
+   ],
+   "file": "lengo-content-ru.sqlite.xz",
+   "bytes": 1232896,
+   "sha256": "d78481d6668f83bed745c4186fc51a99f5e62e36356abe67e90961ef31faa16d",
+   "compressedBytes": 323696,
+   "compressedSha256": "721d9b7d390b92aa4579e8e89153de915f298045acb2e42df999274459bdcc66",
+   "entries": 1843,
+   "bandCounts": {
+    "unclassified": 1188,
+    "A1.2": 165,
+    "A1.1": 272,
+    "B1.1": 31,
+    "A2.2": 24,
+    "B1.2": 28,
+    "A2.1": 45,
+    "C2.1": 13,
+    "B2.1": 23,
+    "B2.2": 21,
+    "C1.1": 10,
+    "C1.2": 14,
+    "C2.2": 9
+   },
+   "counts": {
+    "items": 1843,
+    "kinds": {
+     "word": 159,
+     "phrase": 488,
+     "pattern": 31,
+     "note": 2,
+     "dialogue": 6,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 317,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-ru.sqlite.xz"
+  },
+  {
+   "id": "content-zh-CN",
+   "kind": "content",
+   "languages": [
+    "zh-CN"
+   ],
+   "file": "lengo-content-zh-CN.sqlite.xz",
+   "bytes": 741376,
+   "sha256": "5989deaed4f5c62490291fbb26c5bba72c5f8c1fbb5575cf7ec659f7bd2b732a",
+   "compressedBytes": 202012,
+   "compressedSha256": "19d4a8e09b26ff2fb181b203a94bbe40e30d9c6e800731156edc4542c85730ec",
+   "entries": 1244,
+   "bandCounts": {
+    "A1.1": 212,
+    "B1.1": 43,
+    "B2.1": 28,
+    "A2.1": 90,
+    "B1.2": 20,
+    "A1.2": 154,
+    "B2.2": 32,
+    "C1.2": 18,
+    "C1.1": 34,
+    "A2.2": 21,
+    "C2.2": 20,
+    "C2.1": 17,
+    "unclassified": 555
+   },
+   "counts": {
+    "items": 1244,
+    "kinds": {
+     "phrase": 148,
+     "pattern": 18,
+     "word": 233,
+     "dialogue": 5,
+     "idiom": 300,
+     "slang": 200,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-zh-CN.sqlite.xz"
+  },
+  {
+   "id": "content-ja",
+   "kind": "content",
+   "languages": [
+    "ja"
+   ],
+   "file": "lengo-content-ja.sqlite.xz",
+   "bytes": 851968,
+   "sha256": "0b450ab463b0ba015637f06ba5dfe1da4ff1c134674da67df110eb61783444bd",
+   "compressedBytes": 230708,
+   "compressedSha256": "b17f605edf4274034628c773c5110a31ffb0266d1ea24f9efb8b582114f2828f",
+   "entries": 1344,
+   "bandCounts": {
+    "A2.2": 72,
+    "A1.2": 114,
+    "A1.1": 193,
+    "C1.1": 29,
+    "A2.1": 117,
+    "C2.1": 24,
+    "B2.1": 34,
+    "C1.2": 21,
+    "unclassified": 577,
+    "B1.2": 62,
+    "B1.1": 65,
+    "B2.2": 17,
+    "C2.2": 19
+   },
+   "counts": {
+    "items": 1344,
+    "kinds": {
+     "phrase": 200,
+     "word": 258,
+     "pattern": 36,
+     "dialogue": 4,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 6,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-ja.sqlite.xz"
+  },
+  {
+   "id": "content-ko",
+   "kind": "content",
+   "languages": [
+    "ko"
+   ],
+   "file": "lengo-content-ko.sqlite.xz",
+   "bytes": 581632,
+   "sha256": "03bfa6b83761e075f7af85c96e790627e8848865882827f70141d3a7bb1ebf33",
+   "compressedBytes": 154128,
+   "compressedSha256": "f8e792153e9764e217188b06519ab2c0e51a2e3ac94704988d7b67334e4da048",
+   "entries": 1087,
+   "bandCounts": {
+    "unclassified": 591,
+    "A1.1": 122,
+    "C1.2": 18,
+    "B1.2": 22,
+    "C1.1": 12,
+    "A1.2": 84,
+    "A2.1": 60,
+    "A2.2": 54,
+    "B1.1": 43,
+    "B2.2": 33,
+    "C2.2": 4,
+    "C2.1": 6,
+    "B2.1": 38
+   },
+   "counts": {
+    "items": 1087,
+    "kinds": {
+     "phrase": 186,
+     "pattern": 31,
+     "word": 192,
+     "note": 1,
+     "dialogue": 5,
+     "idiom": 65,
+     "slang": 200,
+     "collocation": 92,
+     "comparison": 40,
+     "family": 275
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-ko.sqlite.xz"
+  },
+  {
+   "id": "content-nl",
+   "kind": "content",
+   "languages": [
+    "nl"
+   ],
+   "file": "lengo-content-nl.sqlite.xz",
+   "bytes": 913408,
+   "sha256": "362932310af010d69afc92ca2cf90805564e8902bc0cdb3b98c76abe5c7406fa",
+   "compressedBytes": 253932,
+   "compressedSha256": "7a277ac6d51f6862ef62bb2a715a6636d726097ff93c48ce931610542434527f",
+   "entries": 1534,
+   "bandCounts": {
+    "A2.1": 46,
+    "A1.1": 331,
+    "A1.2": 161,
+    "B1.2": 18,
+    "B2.1": 28,
+    "B1.1": 19,
+    "unclassified": 851,
+    "A2.2": 25,
+    "C1.1": 11,
+    "C1.2": 16,
+    "C2.1": 7,
+    "B2.2": 16,
+    "C2.2": 5
+   },
+   "counts": {
+    "items": 1534,
+    "kinds": {
+     "phrase": 474,
+     "pattern": 29,
+     "word": 128,
+     "dialogue": 6,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 57,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-nl.sqlite.xz"
+  },
+  {
+   "id": "content-pl",
+   "kind": "content",
+   "languages": [
+    "pl"
+   ],
+   "file": "lengo-content-pl.sqlite.xz",
+   "bytes": 1085440,
+   "sha256": "8b5bda8509ff32c7d2115e2f2630186edf9c528f5d6c9974f416627392a2480c",
+   "compressedBytes": 295072,
+   "compressedSha256": "00ce6051ec65394cdbde97ddda7b2c203443d640e1585b3031dee943af85abd4",
+   "entries": 1908,
+   "bandCounts": {
+    "A1.1": 255,
+    "A1.2": 218,
+    "unclassified": 789,
+    "B2.1": 100,
+    "A2.1": 167,
+    "B1.1": 85,
+    "A2.2": 68,
+    "C1.1": 32,
+    "C1.2": 21,
+    "C2.1": 30,
+    "B2.2": 36,
+    "C2.2": 15,
+    "B1.2": 92
+   },
+   "counts": {
+    "items": 1908,
+    "kinds": {
+     "word": 160,
+     "phrase": 276,
+     "pattern": 24,
+     "note": 3,
+     "dialogue": 5,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 600,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-pl.sqlite.xz"
+  },
+  {
+   "id": "content-sv",
+   "kind": "content",
+   "languages": [
+    "sv"
+   ],
+   "file": "lengo-content-sv.sqlite.xz",
+   "bytes": 847872,
+   "sha256": "c364c582ba392efb62d38af4da0e013902bb5f159d5de7a10f009c8dae85d33d",
+   "compressedBytes": 237604,
+   "compressedSha256": "bff5b0a87353da21d99f533c70974e190eaac586fc96bffc04365681261e2671",
+   "entries": 1431,
+   "bandCounts": {
+    "A1.1": 454,
+    "B1.2": 3,
+    "A2.2": 4,
+    "B1.1": 30,
+    "A1.2": 63,
+    "A2.1": 52,
+    "B2.1": 19,
+    "unclassified": 784,
+    "C2.1": 5,
+    "C1.1": 11,
+    "C2.2": 3,
+    "B2.2": 1,
+    "C1.2": 2
+   },
+   "counts": {
+    "items": 1431,
+    "kinds": {
+     "word": 127,
+     "phrase": 387,
+     "pattern": 30,
+     "dialogue": 6,
+     "idiom": 300,
+     "slang": 200,
+     "collocation": 41,
+     "comparison": 40,
+     "family": 300
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-sv.sqlite.xz"
+  },
+  {
+   "id": "content-hi",
+   "kind": "content",
+   "languages": [
+    "hi"
+   ],
+   "file": "lengo-content-hi.sqlite.xz",
+   "bytes": 602112,
+   "sha256": "a980e17bb1a670f1e626884867f6a6785fa73b073a1db72eff862388628d0c02",
+   "compressedBytes": 147012,
+   "compressedSha256": "94ddc3ed0af3941d0896a8639749d38ea7eb478493c5777422d74335ba1db427",
+   "entries": 1038,
+   "bandCounts": {
+    "A1.2": 80,
+    "C1.1": 1,
+    "B2.1": 40,
+    "B1.1": 56,
+    "A2.1": 67,
+    "A1.1": 118,
+    "unclassified": 562,
+    "A2.2": 47,
+    "B2.2": 25,
+    "C1.2": 8,
+    "B1.2": 33,
+    "C2.1": 1
+   },
+   "counts": {
+    "items": 1038,
+    "kinds": {
+     "phrase": 230,
+     "word": 67,
+     "pattern": 25,
+     "dialogue": 2,
+     "idiom": 201,
+     "slang": 200,
+     "collocation": 29,
+     "comparison": 40,
+     "family": 244
+    }
+   },
+   "url": "https://github.com/M-O-R-94/lengo-dictionary/releases/download/v2026.10.12/lengo-content-hi.sqlite.xz"
   }
  ]
 }
