@@ -4,7 +4,7 @@ Offline learner's-dictionary packs for the Lengo iOS app:
 16 languages, words placed in twelve learning bands (A1.1 … C2.2). The app downloads
 them from this repository's releases. This repository holds data only.
 
-**Release 2026.10.5**, built from the English Wiktionary dump of
+**Release 2026.10.6**, built from the English Wiktionary dump of
 2026-09-02.
 
 | Language | Words | Entries | Entries with translations | Levels | Installed | Download |
@@ -18,7 +18,7 @@ them from this repository's releases. This repository holds data only.
 | Italian (`it`) | 10,963 | 11,840 | 82% | estimated from word frequency | 6.3 MB | 1.9 MB |
 | Portuguese (`pt`) | 10,982 | 11,901 | 87% | estimated from word frequency | 7.1 MB | 2.2 MB |
 | Russian (`ru`) | 10,998 | 11,330 | 87% | estimated from word frequency | 5.8 MB | 1.9 MB |
-| Chinese (Simplified) (`zh-CN`) | 11,000 | 12,222 | 58% | estimated from word frequency | 4.4 MB | 1.4 MB |
+| Chinese (Simplified) (`zh-CN`) | 10,917 | 11,945 | 62% | estimated from word frequency | 4.9 MB | 1.6 MB |
 | Japanese (`ja`) | 10,999 | 13,523 | 54% | estimated from word frequency | 6.8 MB | 1.8 MB |
 | Korean (`ko`) | 10,999 | 12,248 | 60% | estimated from word frequency | 4.2 MB | 1.3 MB |
 | Dutch (`nl`) | 10,996 | 11,648 | 82% | estimated from word frequency | 5.2 MB | 1.7 MB |
@@ -26,8 +26,8 @@ them from this repository's releases. This repository holds data only.
 | Swedish (`sv`) | 7,817 | 8,085 | 87% | Kelly list | 4.7 MB | 1.5 MB |
 | Hindi (`hi`) | 9,216 | 9,938 | 69% | estimated from word frequency | 4.8 MB | 1.3 MB |
 
-All sixteen packs: 103 MB installed, 30 MB to download. The app also ships
-a starter pack with bands A1.1–A1.2 of every language (15,506 entries,
+All sixteen packs: 103 MB installed, 31 MB to download. The app also ships
+a starter pack with bands A1.1–A1.2 of every language (15,451 entries,
 9.9 MB).
 
 Full coverage tables, per-band counts and format measurements: [`report.md`](report.md).
