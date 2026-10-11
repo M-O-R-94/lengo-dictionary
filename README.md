@@ -4,31 +4,31 @@ Offline learner's-dictionary packs for the Lengo iOS app:
 16 languages, words placed in twelve learning bands (A1.1 … C2.2). The app downloads
 them from this repository's releases. This repository holds data only.
 
-**Release 2026.10.6**, built from the English Wiktionary dump of
+**Release 2026.10.7**, built from the English Wiktionary dump of
 2026-09-02.
 
 | Language | Words | Entries | Entries with translations | Levels | Installed | Download |
 |---|---:|---:|---:|---|---:|---:|
-| German (`de`) | 10,994 | 11,427 | 86% | estimated from word frequency | 6.5 MB | 2.1 MB |
-| English (`en`) | 8,909 | 10,390 | 91% | CEFR-J 1.5 (A1–B2) and Octanove (C1–C2) lists | 8.4 MB | 2.7 MB |
-| French (`fr`) | 10,997 | 11,710 | 90% | estimated from word frequency | 6.5 MB | 2.1 MB |
-| Spanish (`es`) | 10,993 | 11,917 | 90% | estimated from word frequency | 6.9 MB | 2.1 MB |
-| Arabic (`ar`) | 11,000 | 13,009 | 68% | estimated from word frequency | 8.4 MB | 2.1 MB |
-| Turkish (`tr`) | 10,565 | 11,078 | 79% | estimated from word frequency | 8.6 MB | 2.1 MB |
-| Italian (`it`) | 10,963 | 11,840 | 82% | estimated from word frequency | 6.3 MB | 1.9 MB |
-| Portuguese (`pt`) | 10,982 | 11,901 | 87% | estimated from word frequency | 7.1 MB | 2.2 MB |
-| Russian (`ru`) | 10,998 | 11,330 | 87% | estimated from word frequency | 5.8 MB | 1.9 MB |
-| Chinese (Simplified) (`zh-CN`) | 10,917 | 11,945 | 62% | estimated from word frequency | 4.9 MB | 1.6 MB |
-| Japanese (`ja`) | 10,999 | 13,523 | 54% | estimated from word frequency | 6.8 MB | 1.8 MB |
-| Korean (`ko`) | 10,999 | 12,248 | 60% | estimated from word frequency | 4.2 MB | 1.3 MB |
-| Dutch (`nl`) | 10,996 | 11,648 | 82% | estimated from word frequency | 5.2 MB | 1.7 MB |
-| Polish (`pl`) | 10,867 | 11,354 | 82% | estimated from word frequency | 8.2 MB | 2.2 MB |
-| Swedish (`sv`) | 7,817 | 8,085 | 87% | Kelly list | 4.7 MB | 1.5 MB |
-| Hindi (`hi`) | 9,216 | 9,938 | 69% | estimated from word frequency | 4.8 MB | 1.3 MB |
+| German (`de`) | 10,995 | 11,358 | 86% | estimated from word frequency | 6.5 MB | 2.1 MB |
+| English (`en`) | 8,602 | 9,646 | 93% | CEFR-J 1.5 (A1–B2) and Octanove (C1–C2) lists | 8.2 MB | 2.7 MB |
+| French (`fr`) | 10,999 | 11,664 | 90% | estimated from word frequency | 6.5 MB | 2.1 MB |
+| Spanish (`es`) | 11,000 | 11,844 | 92% | estimated from word frequency | 6.8 MB | 2.1 MB |
+| Arabic (`ar`) | 11,000 | 12,776 | 69% | estimated from word frequency | 8.3 MB | 2.0 MB |
+| Turkish (`tr`) | 10,024 | 10,457 | 78% | estimated from word frequency | 8.4 MB | 2.1 MB |
+| Italian (`it`) | 10,999 | 11,806 | 83% | estimated from word frequency | 6.2 MB | 1.9 MB |
+| Portuguese (`pt`) | 10,995 | 11,791 | 88% | estimated from word frequency | 7.0 MB | 2.2 MB |
+| Russian (`ru`) | 10,999 | 11,188 | 87% | estimated from word frequency | 5.8 MB | 1.9 MB |
+| Chinese (Simplified) (`zh-CN`) | 10,935 | 11,939 | 62% | estimated from word frequency | 4.9 MB | 1.6 MB |
+| Japanese (`ja`) | 10,999 | 12,558 | 55% | estimated from word frequency | 6.6 MB | 1.8 MB |
+| Korean (`ko`) | 10,999 | 11,218 | 63% | estimated from word frequency | 4.0 MB | 1.2 MB |
+| Dutch (`nl`) | 11,000 | 11,564 | 82% | estimated from word frequency | 5.2 MB | 1.7 MB |
+| Polish (`pl`) | 10,997 | 11,231 | 83% | estimated from word frequency | 8.3 MB | 2.3 MB |
+| Swedish (`sv`) | 7,619 | 7,798 | 87% | Kelly list | 4.5 MB | 1.5 MB |
+| Hindi (`hi`) | 9,212 | 9,840 | 70% | estimated from word frequency | 4.7 MB | 1.3 MB |
 
-All sixteen packs: 103 MB installed, 31 MB to download. The app also ships
-a starter pack with bands A1.1–A1.2 of every language (15,451 entries,
-9.9 MB).
+All sixteen packs: 102 MB installed, 31 MB to download. The app also ships
+a starter pack with bands A1.1–A1.2 of every language (14,874 entries,
+9.8 MB).
 
 Full coverage tables, per-band counts and format measurements: [`report.md`](report.md).
 
