@@ -29,12 +29,15 @@ and share alike under CC BY-SA 4.0.
   formal and informal forms. The page revisions used are listed in each release's
   `phrasebook-sources.json`; every item names its page and section.
 - **Tatoeba** (https://tatoeba.org), sentences by Tatoeba contributors, CC BY 2.0 FR.
-  Example sentences with their English translations, and short everyday sentences.
+  Example sentences with their English translations, and short everyday sentences;
+  in the dictionary packs, the example of a word Wiktionary gives none for (from
+  release 2026.10.25).
   Every sentence keeps its Tatoeba number and its author's username; the exports used
   are listed in `tatoeba-sources.json`.
 
 Changes: entries selected by frequency, meanings shortened and filtered (obsolete and
-archaic senses removed), examples limited to one per meaning, search keys added, and
+archaic senses removed), examples limited to one per meaning, a Tatoeba sentence
+matched automatically to words without a Wiktionary example, search keys added, and
 Lengo's twelve bands assigned as described in README.md.
 
 Learning-content packs (`lengo-content-*`): phrases, patterns and sentences are
