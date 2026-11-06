@@ -4,12 +4,12 @@ Offline learner's-dictionary and learning-content packs for the Lengo iOS app:
 16 languages, words placed in twelve learning bands (A1.1 … C2.2). The app downloads
 them from this repository's releases. This repository holds data only.
 
-**Release 2026.10.25**, built from the English Wiktionary dump of
+**Release 2026.11.6**, built from the English Wiktionary dump of
 2026-10-01.
 
 | Language | Words | Entries | Entries with translations | Entries with an example | Levels | Installed | Download |
 |---|---:|---:|---:|---:|---|---:|---:|
-| German (`de`) | 10,995 | 11,359 | 86% | 90% | estimated from word frequency | 7.5 MB | 2.4 MB |
+| German (`de`) | 10,974 | 11,337 | 85% | 90% | estimated from word frequency | 7.5 MB | 2.4 MB |
 | English (`en`) | 8,603 | 9,649 | 93% | 96% | CEFR-J 1.5 (A1–B2) and Octanove (C1–C2) lists | 8.4 MB | 2.7 MB |
 | French (`fr`) | 10,999 | 11,665 | 91% | 86% | estimated from word frequency | 7.5 MB | 2.4 MB |
 | Spanish (`es`) | 11,000 | 11,842 | 92% | 82% | estimated from word frequency | 7.9 MB | 2.5 MB |
