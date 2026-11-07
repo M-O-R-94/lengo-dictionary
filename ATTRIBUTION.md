@@ -8,6 +8,10 @@ and share alike under CC BY-SA 4.0.
   translation tables. Extracted with **wiktextract** (Tatu Ylonen, "Wiktextract:
   Wiktionary as Machine-Readable Structured Data", LREC 2022, pp. 1317–1325) and
   published by kaikki.org.
+- **The German, Japanese and Korean Wiktionaries** (https://de.wiktionary.org,
+  https://ja.wiktionary.org, https://ko.wiktionary.org), by Wiktionary contributors,
+  CC BY-SA 4.0. Definitions and example sentences in the word's own language (from
+  release 2026.11.7). Extracted with wiktextract and published by kaikki.org.
 - **wordfreq** 3.1.1 (Robyn Speer, 2022, doi:10.5281/zenodo.7199437), data CC BY-SA 4.0,
   built from Wikipedia, OpenSubtitles 2018 (opensubtitles.org), SUBTLEX (Brysbaert et
   al., freely available), Google Books Ngrams (books.google.com/ngrams), ParaCrawl, the

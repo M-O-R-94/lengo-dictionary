@@ -4,12 +4,13 @@ Offline learner's-dictionary and learning-content packs for the Lengo iOS app:
 16 languages, words placed in twelve learning bands (A1.1 … C2.2). The app downloads
 them from this repository's releases. This repository holds data only.
 
-**Release 2026.11.6**, built from the English Wiktionary dump of
-2026-10-01.
+**Release 2026.11.7**, built from the English Wiktionary dump of
+2026-10-01 and, for definitions in the word's own language, the German, Japanese and
+Korean Wiktionaries (extracts of 2026-10-30).
 
 | Language | Words | Entries | Entries with translations | Entries with an example | Levels | Installed | Download |
 |---|---:|---:|---:|---:|---|---:|---:|
-| German (`de`) | 10,974 | 11,337 | 85% | 90% | estimated from word frequency | 7.5 MB | 2.4 MB |
+| German (`de`) | 10,974 | 11,337 | 85% | 90% | estimated from word frequency | 10.6 MB | 3.4 MB |
 | English (`en`) | 8,603 | 9,649 | 93% | 96% | CEFR-J 1.5 (A1–B2) and Octanove (C1–C2) lists | 8.4 MB | 2.7 MB |
 | French (`fr`) | 10,999 | 11,665 | 91% | 86% | estimated from word frequency | 7.5 MB | 2.4 MB |
 | Spanish (`es`) | 11,000 | 11,842 | 92% | 82% | estimated from word frequency | 7.9 MB | 2.5 MB |
@@ -19,16 +20,20 @@ them from this repository's releases. This repository holds data only.
 | Portuguese (`pt`) | 10,995 | 11,792 | 88% | 83% | estimated from word frequency | 8.1 MB | 2.5 MB |
 | Russian (`ru`) | 10,999 | 11,188 | 87% | 85% | estimated from word frequency | 6.8 MB | 2.2 MB |
 | Chinese (Simplified) (`zh-CN`) | 10,936 | 11,935 | 62% | 70% | estimated from word frequency | 5.3 MB | 1.7 MB |
-| Japanese (`ja`) | 10,999 | 12,552 | 55% | 78% | estimated from word frequency | 7.5 MB | 2.1 MB |
-| Korean (`ko`) | 10,999 | 11,222 | 63% | 27% | estimated from word frequency | 4.1 MB | 1.3 MB |
+| Japanese (`ja`) | 10,999 | 12,552 | 55% | 78% | estimated from word frequency | 9.0 MB | 2.5 MB |
+| Korean (`ko`) | 10,999 | 11,222 | 63% | 27% | estimated from word frequency | 5.2 MB | 1.6 MB |
 | Dutch (`nl`) | 11,000 | 11,564 | 82% | 79% | estimated from word frequency | 6.1 MB | 2.0 MB |
 | Polish (`pl`) | 10,997 | 11,231 | 83% | 70% | estimated from word frequency | 9.2 MB | 2.5 MB |
 | Swedish (`sv`) | 7,621 | 7,800 | 87% | 67% | Kelly list | 4.9 MB | 1.6 MB |
 | Hindi (`hi`) | 9,236 | 9,870 | 70% | 30% | estimated from word frequency | 4.9 MB | 1.3 MB |
 
-All sixteen packs: 114 MB installed, 34 MB to download. The app also ships
-a starter pack with bands A1.1–A1.2 of every language (14,877 entries,
-10.6 MB).
+All sixteen packs: 120 MB installed, 36 MB to download. The app also ships
+a starter pack with bands A1.1–A1.2 of every language (14,873 entries,
+11.3 MB).
+
+German, Japanese and Korean entries also carry definitions in the word's own language
+from that language's Wiktionary (92%, 66% and 50% of entries), with example sentences
+from there.
 
 Full coverage tables, per-band counts and format measurements: [`report.md`](report.md).
 
@@ -67,10 +72,10 @@ all sixteen languages built in.
 |---|---:|---:|
 | One content pack | 0.6–1.3 MB | 0.1–0.4 MB |
 | All sixteen content packs | 14.9 MB | 4.0 MB |
-| One dictionary pack | 4.1–9.4 MB | 1.3–2.7 MB |
-| All sixteen dictionary packs | 114.1 MB | 34.3 MB |
+| One dictionary pack | 4.9–10.6 MB | 1.3–3.4 MB |
+| All sixteen dictionary packs | 119.9 MB | 36.1 MB |
 | Built-in phrases (everyday situations of all 16 languages) | 2.4 MB | — |
-| Built-in starter dictionary (A1 of all 16 languages) | 10.6 MB | — |
+| Built-in starter dictionary (A1 of all 16 languages) | 11.3 MB | — |
 
 Gaps: Korean has 2 work-and-study phrases and Hindi 5 for shopping and 6 for work and
 study (few native Tatoeba sentences with English); English has no confusing pairs
@@ -100,6 +105,10 @@ unpacked), entry and band counts.
   without one gets the shortest fitting Tatoeba sentence by a native speaker that
   uses the word, with its English translation, as its first meaning's example;
   `example.source` names it ("Tatoeba #… by …"), and is empty for Wiktionary's.
+- `native_sense`, `native_example` (German, Japanese and Korean): definitions and example
+  sentences from the word's own Wiktionary, without translations. `native_sense.source`
+  is empty for these; a later release may add definitions written by AI and checked by
+  a second AI review, with `source` "AI (…)" and marked in the app.
 - `term`: search keys for headwords, inflected forms and readings.
 - `concept`, `entry_concept`: translations. A concept is one sense of an English word
   that has a Wiktionary translation table; two entries in different packs that link to
@@ -112,7 +121,8 @@ unpacked), entry and band counts.
   bands are thinner.
 - Translations exist only where Wiktionary's translation tables list a word: about
   half of Chinese, Japanese and Korean entries have one, more for European languages.
-- Meanings are in English only.
+- Meanings are in English. Definitions in the word's own language exist only for German,
+  Japanese and Korean, where that language's Wiktionary has the word.
 - Example sentences: Korean (27% of entries) and Hindi (30%) have far fewer than the
   other languages, because Tatoeba has few sentences by native speakers with an English
   translation in them. A Tatoeba example is matched to a word automatically and shown

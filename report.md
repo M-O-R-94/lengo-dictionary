@@ -1,26 +1,26 @@
-# Lengo dictionary build 2026.11.6
+# Lengo dictionary build 2026.11.7
 
 | Language | Words | Entries | Meanings | Examples | From Tatoeba | Entries with an example | Own-language definitions | AI definitions | AI examples | With translations | Frequency mass matched | SQLite MB | xz MB |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| de | 10,974 | 11,337 | 20,578 | 12,240 | 7,558 | 90% | 0% | 0 | 0 | 85% | 93% | 7.47 | 2.42 |
+| de | 10,974 | 11,337 | 20,578 | 12,240 | 7,558 | 90% | 92% | 0 | 0 | 85% | 93% | 10.62 | 3.44 |
 | en | 8,603 | 9,649 | 35,521 | 18,005 | 2,637 | 96% | en | 0 | 0 | 93% | 98% | 8.38 | 2.72 |
 | fr | 10,999 | 11,665 | 21,421 | 11,031 | 8,144 | 86% | 0% | 0 | 0 | 91% | 90% | 7.54 | 2.43 |
-| es | 11,000 | 11,842 | 22,954 | 10,509 | 8,338 | 82% | 0% | 0 | 0 | 92% | 97% | 7.94 | 2.49 |
+| es | 11,000 | 11,842 | 22,954 | 10,509 | 8,338 | 82% | 0% | 0 | 0 | 92% | 97% | 7.94 | 2.50 |
 | ar | 11,000 | 12,798 | 25,152 | 8,048 | 6,259 | 61% | 0% | 0 | 0 | 70% | 89% | 9.22 | 2.31 |
 | tr | 10,067 | 10,498 | 16,790 | 9,660 | 7,922 | 88% | 0% | 0 | 0 | 78% | 86% | 9.40 | 2.37 |
 | it | 10,999 | 11,806 | 22,956 | 10,479 | 8,740 | 83% | 0% | 0 | 0 | 83% | 88% | 7.25 | 2.23 |
-| pt | 10,995 | 11,792 | 22,765 | 11,176 | 8,372 | 83% | 0% | 0 | 0 | 88% | 91% | 8.13 | 2.53 |
-| ru | 10,999 | 11,188 | 20,972 | 10,723 | 6,683 | 85% | 0% | 0 | 0 | 87% | 63% | 6.83 | 2.24 |
+| pt | 10,995 | 11,792 | 22,765 | 11,176 | 8,372 | 83% | 0% | 0 | 0 | 88% | 91% | 8.13 | 2.52 |
+| ru | 10,999 | 11,188 | 20,972 | 10,723 | 6,683 | 85% | 0% | 0 | 0 | 87% | 63% | 6.83 | 2.23 |
 | zh-CN | 10,936 | 11,935 | 24,369 | 11,270 | 2,779 | 70% | 0% | 0 | 0 | 62% | 95% | 5.30 | 1.72 |
-| ja | 10,999 | 12,552 | 21,404 | 11,071 | 6,559 | 78% | 0% | 0 | 0 | 55% | 92% | 7.55 | 2.06 |
-| ko | 10,999 | 11,222 | 15,546 | 3,572 | 892 | 27% | 0% | 0 | 0 | 63% | 86% | 4.16 | 1.29 |
+| ja | 10,999 | 12,552 | 21,404 | 11,071 | 6,559 | 78% | 66% | 0 | 0 | 55% | 92% | 9.00 | 2.51 |
+| ko | 10,999 | 11,222 | 15,546 | 3,573 | 893 | 27% | 50% | 0 | 0 | 63% | 86% | 5.23 | 1.63 |
 | nl | 11,000 | 11,564 | 18,435 | 10,295 | 6,943 | 79% | 0% | 0 | 0 | 82% | 95% | 6.09 | 2.01 |
 | pl | 10,997 | 11,231 | 25,426 | 8,465 | 6,984 | 70% | 0% | 0 | 0 | 83% | 92% | 9.20 | 2.55 |
 | sv | 7,621 | 7,800 | 13,392 | 7,256 | 2,520 | 67% | 0% | 0 | 0 | 87% | 96% | 4.88 | 1.56 |
 | hi | 9,236 | 9,870 | 16,270 | 3,510 | 594 | 30% | 0% | 0 | 0 | 70% | 92% | 4.87 | 1.34 |
-| starter (A1) | | 14,873 | | | | | | | 10.61 | 3.31 |
+| starter (A1) | | 14,873 | | | | | | | 11.26 | 3.54 |
 
-All language packs: 114.20 MB installed, 34.25 MB to download.
+All language packs: 119.87 MB installed, 36.06 MB to download.
 
 ## Entries per band
 
@@ -68,21 +68,21 @@ All language packs: 114.20 MB installed, 34.25 MB to download.
 
 | Pack | SQLite | SQLite gzip | SQLite xz | JSON lines | JSON gzip | JSON xz |
 |---|---:|---:|---:|---:|---:|---:|
-| starter | 10,608,640 | 4,712,612 | 3,312,564 | 9,534,172 | 3,034,867 | 2,013,180 |
-| de | 7,471,104 | 3,463,666 | 2,422,764 | 6,765,166 | 2,166,751 | 1,477,536 |
-| ar | 9,220,096 | 3,559,818 | 2,306,652 | 8,130,897 | 2,251,156 | 1,442,644 |
-| zh-CN | 5,300,224 | 2,410,636 | 1,715,788 | 5,474,837 | 1,706,463 | 1,117,448 |
-| ja | 7,548,928 | 2,993,225 | 2,056,952 | 6,915,020 | 1,952,546 | 1,261,484 |
-| ko | 4,157,440 | 1,809,764 | 1,286,364 | 4,398,572 | 1,231,585 | 819,500 |
+| starter | 11,255,808 | 4,991,060 | 3,541,640 | 9,534,169 | 3,034,866 | 2,012,952 |
+| de | 10,616,832 | 4,837,633 | 3,438,804 | 6,765,147 | 2,166,733 | 1,477,436 |
+| ar | 9,220,096 | 3,559,983 | 2,307,812 | 8,130,897 | 2,251,156 | 1,442,644 |
+| zh-CN | 5,300,224 | 2,410,752 | 1,717,496 | 5,474,790 | 1,706,446 | 1,117,452 |
+| ja | 9,003,008 | 3,611,032 | 2,508,084 | 6,915,020 | 1,952,546 | 1,261,484 |
+| ko | 5,230,592 | 2,258,820 | 1,629,404 | 4,398,508 | 1,231,543 | 819,792 |
 
 What parts of the SQLite file cost (bytes saved without them):
 
-- starter: inflected_forms_index 2,211,840, translation_links 2,846,720, examples 2,048,000, native_definitions 0, ai_definitions 0, ai_examples 0, secondary_indexes 1,286,144
-- de: inflected_forms_index 1,220,608, translation_links 2,818,048, examples 1,433,600, native_definitions 0, ai_definitions 0, ai_examples 0, secondary_indexes 1,064,960
+- starter: inflected_forms_index 2,211,840, translation_links 2,846,720, examples 2,048,000, native_definitions 647,168, ai_definitions 0, ai_examples 0, secondary_indexes 1,286,144
+- de: inflected_forms_index 1,220,608, translation_links 2,818,048, examples 1,433,600, native_definitions 3,145,728, ai_definitions 0, ai_examples 0, secondary_indexes 1,064,960
 - ar: inflected_forms_index 3,985,408, translation_links 1,568,768, examples 1,142,784, native_definitions 0, ai_definitions 0, ai_examples 0, secondary_indexes 704,512
 - zh-CN: inflected_forms_index 36,864, translation_links 1,413,120, examples 880,640, native_definitions 0, ai_definitions 0, ai_examples 0, secondary_indexes 696,320
-- ja: inflected_forms_index 2,150,400, translation_links 1,273,856, examples 1,228,800, native_definitions 0, ai_definitions 0, ai_examples 0, secondary_indexes 622,592
-- ko: inflected_forms_index 712,704, translation_links 1,134,592, examples 376,832, native_definitions 0, ai_definitions 0, ai_examples 0, secondary_indexes 561,152
+- ja: inflected_forms_index 2,150,400, translation_links 1,273,856, examples 1,228,800, native_definitions 1,454,080, ai_definitions 0, ai_examples 0, secondary_indexes 622,592
+- ko: inflected_forms_index 712,704, translation_links 1,134,592, examples 376,832, native_definitions 1,073,152, ai_definitions 0, ai_examples 0, secondary_indexes 561,152
 
 ## Learning content
 
@@ -92,7 +92,7 @@ Review status: 1 = text as written by the source; 2 = chosen or grouped automati
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | de | 422 | 1850 | 210 | 500 | 39 | 253 | 5 | 300 | 200 | 40 | 300 | 3 | 2146 | 951 | 1472/373/5 |
 | en | 337 | 2074 | 163 | 472 | 33 | 600 | 6 | 300 | 200 | 0 | 300 | 0 | 2470 | 1030 | 1737/331/6 |
-| fr | 443 | 2216 | 131 | 609 | 29 | 600 | 4 | 300 | 200 | 40 | 300 | 3 | 2033 | 1076 | 1838/374/4 |
+| fr | 443 | 2216 | 131 | 609 | 29 | 600 | 4 | 300 | 200 | 40 | 300 | 3 | 2034 | 1076 | 1838/374/4 |
 | es | 370 | 1866 | 169 | 493 | 34 | 320 | 6 | 300 | 200 | 40 | 300 | 4 | 2092 | 877 | 1486/374/6 |
 | ar | 186 | 1049 | 87 | 240 | 6 | 247 | 3 | 126 | 104 | 40 | 196 | 0 | 682 | 377 | 745/301/3 |
 | tr | 287 | 1333 | 101 | 302 | 30 | 55 | 5 | 300 | 200 | 40 | 300 | 0 | 1613 | 701 | 952/376/5 |
@@ -132,20 +132,20 @@ Example sentences by source (Tatoeba examples are matched automatically, review 
 
 | Language | Wiktionary | Tatoeba | Tatoeba sentences read |
 |---|---:|---:|---:|
-| de | 359 | 1787 | 387611 |
-| en | 679 | 1791 | 1427045 |
-| fr | 238 | 1795 | 288648 |
-| es | 230 | 1862 | 181942 |
+| de | 359 | 1787 | 387674 |
+| en | 679 | 1791 | 1427295 |
+| fr | 238 | 1796 | 288774 |
+| es | 230 | 1862 | 181945 |
 | ar | 64 | 618 | 40033 |
-| tr | 223 | 1390 | 638415 |
-| it | 323 | 1710 | 623215 |
-| pt | 268 | 1601 | 242191 |
-| ru | 247 | 1894 | 661719 |
-| zh-CN | 213 | 1080 | 14756 |
-| ja | 200 | 1494 | 96976 |
-| ko | 137 | 424 | 7700 |
-| nl | 293 | 1543 | 130273 |
-| pl | 125 | 1481 | 64206 |
+| tr | 223 | 1390 | 638431 |
+| it | 323 | 1710 | 623438 |
+| pt | 268 | 1601 | 242260 |
+| ru | 247 | 1894 | 662927 |
+| zh-CN | 213 | 1080 | 14758 |
+| ja | 200 | 1494 | 96979 |
+| ko | 137 | 424 | 7713 |
+| nl | 293 | 1543 | 130279 |
+| pl | 125 | 1481 | 64207 |
 | sv | 547 | 1122 | 32341 |
 | hi | 155 | 220 | 1130 |
 
